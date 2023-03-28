@@ -6442,7 +6442,7 @@ fieldset:disabled .btn {
 }
 
 .link-dark {
-  color: #212529;
+  color: #dee2e6;
 }
 
 .link-dark:hover, .link-dark:focus {
@@ -7238,7 +7238,7 @@ fieldset:disabled .btn {
 }
 
 .mt-5 {
-  margin-top: 4rem !important;
+  margin-top: 4rem;
 }
 
 .mt-auto {
@@ -11100,7 +11100,7 @@ hr {
 
 #header-nav.fixed-top {
   position: fixed;
-  background: #fff !important;
+  background: rgb(124, 21, 44, 0.5) !important;
   padding-top: 0.36em;
   padding-bottom: 0.36em;
 }

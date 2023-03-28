@@ -18,7 +18,10 @@ html {
   }
 }
 
-
+.navbar-scrolled {
+  background-color: black;
+  color: black;
+}
 .cc-experience .cc-experience-header {
   padding-top: 60px;
   padding-right: 0;
@@ -44,7 +47,7 @@ html {
 
 .nav-link {
   font-weight: 700;
-  color: rgba(0, 0, 0, 0.8) !important;
+  color: #dee2e6 !important;
 }
 
 .social-nav .nav-link {
